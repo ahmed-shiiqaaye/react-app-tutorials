@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito&family=Poppins:wght@400;500&family=Satisfy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    color: black;
+    font-family: poppins;
+}
+a{
+    color: black;
+}
+.border-radius{
+    border-radius: 24px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
